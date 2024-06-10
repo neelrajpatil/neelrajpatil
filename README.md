@@ -1,5 +1,5 @@
-## Hi there! 👋
-I'm currently a grad student at Cornell
+## Neelraj Patil
+MS CIS at Cornell ‘25 | Merit Scholar | ~3 Yrs Experience | Software Engineer
 <!--
 **neelrajpatil/neelrajpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
