@@ -1,5 +1,5 @@
 ## Neelraj Patil
-MS CIS at Cornell ‘25 | Merit Scholar | ~3 Yrs Experience | Software Engineer
+MLE Intern @ Memorial Sloan Kettering | MS CIS @ Cornell ‘25 | Merit Scholar | ~3 Yrs Experience | Software Engineer | AWS Cloud Practitioner
 <!--
 **neelrajpatil/neelrajpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
